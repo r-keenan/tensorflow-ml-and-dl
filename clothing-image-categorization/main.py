@@ -32,7 +32,3 @@ model.compile(
 )
 
 model.fit(training_images, training_labels, epochs=50, callbacks=[callbacks])
-
-# classifications = model.predict(test_images)
-# print(classifications[0])
-# print(test_labels[0])
