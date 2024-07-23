@@ -11,7 +11,7 @@
 #### Activate the Virtual Environment
 
 ```bash
-    .\venv\Scripts\activate
+    source venv/bin/activate
 ```
 
 #### Deactivate the Virtual Environment
